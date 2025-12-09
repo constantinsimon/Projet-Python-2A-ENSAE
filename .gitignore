@@ -208,8 +208,9 @@ marimo/_lsp/
 __marimo__/
 
 
-# TXT - bases de données utilisées
+# TXT
 
-*.txt
-*.csv
-.venv/
+.txt
+
+
+
