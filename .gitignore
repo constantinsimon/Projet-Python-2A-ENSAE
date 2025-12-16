@@ -212,6 +212,6 @@ __marimo__/
 
 *.txt
 *.csv
-*.geojson
+# *.geojson pour l'instant on va le sync
 
 
