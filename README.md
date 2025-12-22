@@ -2,3 +2,6 @@
 
 
 requirements : regarder sur google comment faire un bon requirements
+
+
+install lxml
