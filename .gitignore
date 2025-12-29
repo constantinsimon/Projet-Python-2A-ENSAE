@@ -209,9 +209,6 @@ __marimo__/
 
 
 # TXT
-
-*.txt
 *.csv
-# *.geojson pour l'instant on va le sync
 
 
